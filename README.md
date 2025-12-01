@@ -29,14 +29,21 @@ Detail produk
 
 📱 Screenshot Aplikasi
 1. Halaman Login
+<img width="951" height="517" alt="Screenshot 2025-11-24 190811" src="https://github.com/user-attachments/assets/7276515f-c85a-4a11-9769-be8dff9b567c" />
 
 2. Halaman Registrasi
+<img width="939" height="581" alt="Screenshot 2025-11-24 190837" src="https://github.com/user-attachments/assets/515903b2-1cfb-4f00-bdb6-a2dbc7440d4e" />
 
 3. List Produk
+<img width="939" height="506" alt="Screenshot 2025-11-24 185735" src="https://github.com/user-attachments/assets/7cf99303-466f-4e0e-a3a4-decf9235484d" />
 
-4. Form Produk (Tambah / Edit)
+5. Form Produk (Tambah / Edit)
+<img width="948" height="414" alt="Screenshot 2025-11-24 190655" src="https://github.com/user-attachments/assets/4d1dd1e9-5c51-4dd0-aa9d-867dd6152842" />
 
-5. Detail Produk
+<img width="937" height="439" alt="image" src="https://github.com/user-attachments/assets/8a242820-9094-473c-b687-de3bc28accc0" />
+
+6. Detail Produk
+<img width="939" height="744" alt="Screenshot 2025-11-24 190622" src="https://github.com/user-attachments/assets/1dca5153-3cb6-4e74-af03-aa280acc0237" />
 
 🧩 Penjelasan Singkat Tiap Halaman
 🔐 Login Page
